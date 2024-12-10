@@ -12,6 +12,7 @@ Contoso Electronics, a pioneering force in the tech industry, was founded in 198
 | 1990 | Launched the first-ever handheld personal computer |
 | 2000 | Introduced groundbreaking advancements in AI and robotics |
 | 2015 | Expansion into sustainable and eco-friendly product lines |
+|2024 | Michael Carter becomes the CEO of Contoso|
 
 ## Company Overview
 
